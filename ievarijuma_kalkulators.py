@@ -11,5 +11,5 @@ def izmaksa():
     cukura_cena=float(input('Ievadiet cukura cenu eiros:'))
     if cukura_cena<0 or abolu cena<0:
         print("Kļuda")
-    
+#Nepaspēju izpildit lidz galām
     
