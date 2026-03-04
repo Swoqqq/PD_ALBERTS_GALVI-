@@ -4,6 +4,7 @@ def ievade():
         print("Kļuda")
 
 def aprekins(abolu svars):
+     abolu_svars=float(input('Ievadiet abolu svaru kilogramos:'))
 
     
 def izmaksa():
